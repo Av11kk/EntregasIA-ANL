@@ -1,4 +1,11 @@
-Avik Nuñez Laffon
-191100
-Programacion Avanzada
-Jesus Alejandro Hernandez
+<p align="center">
+
+**Nombre:** Avik Nuñez Laffon
+
+**Matrícula:** 191100
+
+**Materia:** Programación Avanzada
+
+**Maestro:** Jesús Alejandro Hernández
+
+</p>
