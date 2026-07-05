@@ -1,6 +1,6 @@
 # Entregables ACT02 - Arboles y Naive Bayes
 
-Archivos generados:
+Archivos en el repo:
 
 1. `id3_iris_resultado.pdf`: reporte de aplicacion de ID3 a Iris discretizado.
 2. `id3_iris_resultado.xlsx`: libro con datos, ganancias de informacion, reglas y matriz de confusion ID3.
